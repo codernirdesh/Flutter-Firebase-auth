@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "259414629173",
+    "firebase_url": "https://firetest-nirdesh.firebaseio.com",
+    "project_id": "firetest-nirdesh",
+    "storage_bucket": "firetest-nirdesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259414629173:android:7492a8acb5fd32eefcca7c",
+        "android_client_info": {
+          "package_name": "com.kanthipur.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259414629173-73tsp6e5tgbvgnbss96slp3o5nnsq099.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpTRq_tZ9vnddwUqLFgbUwaCOEWg4ue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259414629173-73tsp6e5tgbvgnbss96slp3o5nnsq099.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259414629173:android:72b70d579fab9c04fcca7c",
+        "android_client_info": {
+          "package_name": "com.nirdesh.test.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259414629173-73tsp6e5tgbvgnbss96slp3o5nnsq099.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpTRq_tZ9vnddwUqLFgbUwaCOEWg4ue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259414629173-73tsp6e5tgbvgnbss96slp3o5nnsq099.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
